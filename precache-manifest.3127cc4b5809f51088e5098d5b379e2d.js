@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea14dfe62c35d7327549b6bb902bbeb1",
+    "revision": "6bb2631471527f68d82ebc8cf8558610",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "de06b1a0aedca5f1f945",
+    "revision": "e754d23d3eebadf8d77c",
     "url": "/static/css/main.e85eb41f.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.6435d9e8.chunk.js"
   },
   {
-    "revision": "de06b1a0aedca5f1f945",
-    "url": "/static/js/main.7ebbb0dc.chunk.js"
+    "revision": "e754d23d3eebadf8d77c",
+    "url": "/static/js/main.946e3f9a.chunk.js"
   },
   {
     "revision": "1210d862664d58edb9e3",
@@ -52,10 +52,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
-    "url": "/static/media/airbnbLogo.c59720d6.png"
-  },
-  {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
     "url": "/static/media/codeInLogo.47a7a717.webp"
   },
@@ -66,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/static/media/developerActivity.59389695.svg"
+  },
+  {
+    "revision": "083e01e9ce0b2cd0415e6ac6ce7340c1",
+    "url": "/static/media/digivision.083e01e9.png"
   },
   {
     "revision": "e79c639294c805688be731921368c8f8",
@@ -88,16 +88,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pwaLogo.ee62cb58.webp"
   },
   {
-    "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
-    "url": "/static/media/quoraLogo.4b2938b9.png"
-  },
-  {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
     "url": "/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
+  },
+  {
+    "revision": "7db12bcf308a9734d4cc5bde836a9af5",
+    "url": "/static/media/succulentsbox.7db12bcf.png"
   },
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
