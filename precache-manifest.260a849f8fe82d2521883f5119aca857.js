@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36363935b2bde09812a4799a0afe2fbc",
+    "revision": "60a065d84935e17ff3f2752a633a1864",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/3.879e9400.chunk.css"
   },
   {
-    "revision": "807175fc76521946369a",
+    "revision": "fd1b611afd265311f7f6",
     "url": "/static/css/main.cbe00127.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/3.d2e74445.chunk.js"
   },
   {
-    "revision": "807175fc76521946369a",
-    "url": "/static/js/main.0462b185.chunk.js"
+    "revision": "fd1b611afd265311f7f6",
+    "url": "/static/js/main.0dadf871.chunk.js"
   },
   {
     "revision": "27345327e856d58850b6",
@@ -60,16 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/digivision.083e01e9.png"
   },
   {
-    "revision": "edf8e24e4fd5cefeec324bc97368a7fa",
-    "url": "/static/media/easycredit.edf8e24e.png"
+    "revision": "ae4c9fe91f6e6c81464b5214e233af5b",
+    "url": "/static/media/easycredit.ae4c9fe9.png"
   },
   {
     "revision": "e79c639294c805688be731921368c8f8",
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "8f6f401bc0b9d894cb2d31c4df7c9cd6",
-    "url": "/static/media/hnh.8f6f401b.png"
+    "revision": "0e8d4c1095ee2353f85cf40717206e18",
+    "url": "/static/media/hnh.0e8d4c10.png"
   },
   {
     "revision": "25bf045ca257e971124f3997d89f321c",
@@ -88,15 +88,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/skill.34409398.svg"
   },
   {
-    "revision": "45e17423cc2a31517c563a601ed77d5e",
-    "url": "/static/media/ssi.45e17423.png"
-  },
-  {
-    "revision": "6c6272a7816cdcfad0ca1af80450d719",
-    "url": "/static/media/succulentsbox.6c6272a7.jpg"
+    "revision": "686e846bbb253a047a9d16526a10553b",
+    "url": "/static/media/ssi.686e846b.png"
   },
   {
     "revision": "7db12bcf308a9734d4cc5bde836a9af5",
     "url": "/static/media/succulentsbox.7db12bcf.png"
+  },
+  {
+    "revision": "dc04f6862a9133db906cd9a62913a9b8",
+    "url": "/static/media/succulentsbox.dc04f686.jpg"
   }
 ]);
