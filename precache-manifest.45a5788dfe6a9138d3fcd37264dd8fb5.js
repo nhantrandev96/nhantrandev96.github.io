@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a535274828132d02ce8f1074d74d62b3",
+    "revision": "896584d97e954c883d27ad8a85fcf6ec",
     "url": "/index.html"
   },
   {
-    "revision": "3255ae2e9ffedbf10bf4",
+    "revision": "523a8a77671743b5d9a2",
     "url": "/static/css/3.879e9400.chunk.css"
   },
   {
-    "revision": "5a8a3e64b6c3e413de79",
+    "revision": "a07b981904e704ddbbf4",
     "url": "/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "690ccb143009fe6ba123",
-    "url": "/static/css/main.6e4a1b47.chunk.css"
+    "revision": "31e12952c63dc1dbf043",
+    "url": "/static/css/main.bb57086f.chunk.css"
   },
   {
-    "revision": "22ba0c76129f6c09910d",
-    "url": "/static/js/2.13107d52.chunk.js"
+    "revision": "7eb7e3f8f4fc908f9fc8",
+    "url": "/static/js/2.92cc7c07.chunk.js"
   },
   {
-    "revision": "71772b085033e92f89cdfb3071333458",
-    "url": "/static/js/2.13107d52.chunk.js.LICENSE.txt"
+    "revision": "501f379103cbfcb5ff11211dd39a28a2",
+    "url": "/static/js/2.92cc7c07.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3255ae2e9ffedbf10bf4",
-    "url": "/static/js/3.f108b53d.chunk.js"
+    "revision": "523a8a77671743b5d9a2",
+    "url": "/static/js/3.29e016f9.chunk.js"
   },
   {
-    "revision": "5a8a3e64b6c3e413de79",
-    "url": "/static/js/4.c75fc7f8.chunk.js"
+    "revision": "a07b981904e704ddbbf4",
+    "url": "/static/js/4.21d83221.chunk.js"
   },
   {
-    "revision": "690ccb143009fe6ba123",
-    "url": "/static/js/main.4f5275cc.chunk.js"
+    "revision": "31e12952c63dc1dbf043",
+    "url": "/static/js/main.0fce849a.chunk.js"
   },
   {
-    "revision": "6d25982b01c4e8febf17",
-    "url": "/static/js/runtime-main.55b0223a.js"
+    "revision": "004ff9ab5199c8956559",
+    "url": "/static/js/runtime-main.9920a4c3.js"
   },
   {
     "revision": "8d7e7a67c4da1e179c7c744821c85436",
@@ -98,9 +98,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7db12bcf308a9734d4cc5bde836a9af5",
     "url": "/static/media/succulentsbox.7db12bcf.png"
-  },
-  {
-    "revision": "13780cdd0144cacdef25486e2c2503f8",
-    "url": "/static/media/talksCardBack.13780cdd.svg"
   }
 ]);
