@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44c0a5812e147d0b9845a4710b061068",
+    "revision": "97319ab6abd171719dded244f5898813",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "ccfcd3e8d3768032a7d9",
+    "revision": "08abe4348d8e3cc1bff1",
     "url": "/static/css/main.bb57086f.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.e2cd0771.chunk.js"
   },
   {
-    "revision": "ccfcd3e8d3768032a7d9",
-    "url": "/static/js/main.ca969a50.chunk.js"
+    "revision": "08abe4348d8e3cc1bff1",
+    "url": "/static/js/main.404687c9.chunk.js"
   },
   {
     "revision": "accd8236996d6834daec",
@@ -76,12 +76,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/logo.25bf045c.svg"
   },
   {
-    "revision": "52be31441c8cf8a8a16bd7a228d428bf",
-    "url": "/static/media/manOnTable.52be3144.svg"
+    "revision": "83cb1a36df01c183e19ee6c54bfea711",
+    "url": "/static/media/longhau.83cb1a36.png"
   },
   {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/static/media/nextuLogo.829ad0a1.webp"
+    "revision": "52be31441c8cf8a8a16bd7a228d428bf",
+    "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
