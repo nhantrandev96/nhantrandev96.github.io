@@ -8,7 +8,7 @@ import emoji from "react-easy-emoji";
 const greeting = {
   /* Your Summary And Greeting Section */
   username: "Nhan Tran Dev 96",
-  title: "Hi all, I'm Nhan",
+  title: "Hi there, I'm Nhan",
   subTitle: emoji("A passionate Web Developer 🚀 I had over 5 years of professional experience in website design, website application, landing page, e-commerce, management systems and more with skills: PHP, Laravel, MySQL, HTML5, CSS3, Bootstrap, Tailwind, Javascript, jQuery, VueJs, Github, PSD to HTML. If you don't know how to start to build your website, please contact me via inbox to get started."),
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
