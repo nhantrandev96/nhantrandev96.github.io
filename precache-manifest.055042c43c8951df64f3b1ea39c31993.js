@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "07b060e5b7135d8f226de0d633ced75a",
+    "revision": "ea97a847b489b4c8886984cd42f1a4d6",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/3.879e9400.chunk.css"
   },
   {
-    "revision": "e97666136c66d58ffe59",
+    "revision": "4821ec41bc4622a965fb",
     "url": "/static/css/main.a1496e67.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/3.64e48e17.chunk.js"
   },
   {
-    "revision": "e97666136c66d58ffe59",
-    "url": "/static/js/main.a04d5f12.chunk.js"
+    "revision": "4821ec41bc4622a965fb",
+    "url": "/static/js/main.a6130ef2.chunk.js"
   },
   {
     "revision": "8adf179129225fbb17be",
@@ -84,7 +84,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/succulentsbox.7db12bcf.png"
   },
   {
-    "revision": "fadbbe86909e7fbdc215a1f7d1340a0f",
-    "url": "/static/media/succulentsbox.fadbbe86.jpg"
+    "revision": "b41ee950af604925191da899416e4a54",
+    "url": "/static/media/succulentsbox.b41ee950.jpg"
   }
 ]);
