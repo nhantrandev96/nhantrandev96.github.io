@@ -1287,8 +1287,10 @@
 
     let composer, effectFXAA;
 
-    init();
-    animate();
+    if (detectDesktop()) {
+      init();
+      animate();
+    }
 
     function init() {
       camera = new THREE.PerspectiveCamera(45, container.offsetWidth / container.offsetHeight, 1, 1000);
@@ -1389,6 +1391,11 @@
         model.rotation.x += 0.01 * (targetY - model.rotation.x);
       }
       composer.render();
+    }
+
+    function detectDesktop() {
+      var windowWidth = window.screen.width < window.outerWidth ? window.screen.width : window.outerWidth;
+      return windowWidth > 992;
     }
   </script>
 </body>
