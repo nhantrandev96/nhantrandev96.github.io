@@ -150,7 +150,7 @@ h6 {
   }
 
   #header #model-3d {
-    top: 25%;
+    display: none;
   }
 }
 
@@ -158,7 +158,6 @@ h6 {
 #header.header-top {
   height: 80px;
   position: fixed;
-  overflow: hidden;
   left: 0;
   top: 0;
   right: 0;
@@ -194,7 +193,7 @@ h6 {
   }
 
   #header #model-3d {
-    top: 30%;
+    display: none;
   }
 }
 
@@ -1210,4 +1209,10 @@ section .container {
   z-index: 998;
   bottom: 15px;
   right: 15px;
+}
+
+@media (max-width: 992px) {
+  #copyright {
+    display: none;
+  }
 }
