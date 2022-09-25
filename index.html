@@ -84,8 +84,7 @@
       </div>
 
       <!-- 3D -->
-      <div style="position: absolute; z-index: -1; top: 0%; right: 0; width: 50%; height: 100vh;" id="3d-model">
-      </div>
+      <div id="model-3d"></div>
     </div>
   </header>
   <!-- End Header -->
@@ -1242,6 +1241,12 @@
   </section>
   <!-- End Contact Section -->
 
+  <!-- Copyright -->
+  <div id="copyright">
+    Model 3D from <a href="https://sketchfab.com/3d-models/mini-robot-c009b93521cb4c39a091c87c10685258" target="_blank" title="Sketchfap">Sketchfap</a>
+  </div>
+  <!-- End Copyright -->
+
   <!-- Vendor JS Files -->
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -1268,7 +1273,7 @@
     import { FXAAShader } from "https://cdn.skypack.dev/three@0.136.0/examples/jsm/shaders/FXAAShader.js";
     import { GammaCorrectionShader } from "https://cdn.skypack.dev/three@0.136.0/examples/jsm/shaders/GammaCorrectionShader.js";
 
-    const container = document.getElementById('3d-model');
+    const container = document.getElementById('model-3d');
 
     let camera, scene, renderer, mesh, controls, model, dracoLoader;
 
@@ -1277,7 +1282,7 @@
     let targetX = 0;
     let targetY = 0;
 
-    const windowHalfX = container.offsetWidth / 3;
+    const windowHalfX = container.offsetWidth / 2;
     const windowHalfY = container.offsetHeight / 3;
 
     let composer, effectFXAA;
@@ -1380,8 +1385,8 @@
       targetX = mouseX * 0.001;
       targetY = mouseY * 0.001;
       if (model) {
-        model.rotation.y += 0.03 * (targetX - model.rotation.y);
-        model.rotation.x += 0.03 * (targetY - model.rotation.x);
+        model.rotation.y += 0.01 * (targetX - model.rotation.y);
+        model.rotation.x += 0.01 * (targetY - model.rotation.x);
       }
       composer.render();
     }

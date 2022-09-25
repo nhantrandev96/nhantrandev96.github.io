@@ -56,7 +56,8 @@ h6 {
   display: flex;
   align-items: center;
   z-index: 997;
-  overflow-y: auto;
+  /* overflow-y: auto; */
+  overflow: hidden;
 }
 
 #header * {
@@ -119,6 +120,15 @@ h6 {
   background: #18d26e;
 }
 
+#header #model-3d {
+  position: absolute;
+  z-index: -1;
+  top: 0%;
+  right: 0;
+  width: 50%;
+  height: 100vh;
+}
+
 @media (max-width: 992px) {
   #header h1 {
     font-size: 36px;
@@ -137,6 +147,10 @@ h6 {
     display: flex;
     flex-direction: column;
     align-items: center;
+  }
+
+  #header #model-3d {
+    top: 25%;
   }
 }
 
@@ -176,6 +190,10 @@ h6 {
 
   #header.header-top h1 {
     font-size: 26px;
+  }
+
+  #header #model-3d {
+    top: 30%;
   }
 }
 
@@ -1184,4 +1202,11 @@ section .container {
 
 .credits a:hover {
   color: #fff;
+}
+
+#copyright {
+  position: absolute;
+  z-index: 998;
+  bottom: 15px;
+  right: 15px;
 }
