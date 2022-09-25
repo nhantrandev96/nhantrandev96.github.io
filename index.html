@@ -1382,8 +1382,8 @@
     }
 
     function render() {
-      targetX = mouseX * 0.001;
-      targetY = mouseY * 0.001;
+      targetX = mouseX * 0.0005;
+      targetY = mouseY * 0.0005;
       if (model) {
         model.rotation.y += 0.01 * (targetX - model.rotation.y);
         model.rotation.x += 0.01 * (targetY - model.rotation.x);
