@@ -1307,6 +1307,7 @@
 
       dracoLoader = new DRACOLoader();
       dracoLoader.setDecoderPath('assets/draco-loader/');
+      dracoLoader.preload();
 
       const loader = new GLTFLoader();
       loader.setDRACOLoader(dracoLoader);
