@@ -1,0 +1,149 @@
+.fiverr-seller-widget a {
+    text-decoration: none;
+    color: black !important;
+    text-align: center;
+    background: white;
+}
+
+@font-face {
+    font-family: 'Pluto';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://d2nb1f6l8b7ky0.cloudfront.net/fonts/pluto_fiverr-webfont.eot');
+    src: url('https://d2nb1f6l8b7ky0.cloudfront.net/fonts/pluto_fiverr-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://d2nb1f6l8b7ky0.cloudfront.net/fonts/pluto_fiverr-webfont.woff') format('woff'),
+         url('https://d2nb1f6l8b7ky0.cloudfront.net/fonts/pluto_fiverr-webfont.ttf') format('truetype'),
+         url('https://d2nb1f6l8b7ky0.cloudfront.net/fonts/pluto_fiverr-webfont.svg#pluto_fiverrregular') format('svg');
+}
+
+.fiverr-seller-widget .fiverr-seller-content {
+    height: 310px;
+    width: 180px;
+    border: 1px solid #eeeeee;
+    -webkit-box-shadow: 0px 10px 45px -11px rgba(0,0,0,0.08);
+    -moz-box-shadow: 0px 10px 45px -11px rgba(0,0,0,0.08);
+    box-shadow: 0px 10px 45px -11px rgba(0,0,0,0.08);
+    background: white !important;
+    text-align: center !important;
+}
+
+.fiverr-seller-widget .fiverr-seller-content .crop { 
+    width: 180px;
+    height: 150px;
+    overflow: hidden;
+    position: relative;
+}
+
+.fiverr-seller-widget .fiverr-seller-content .crop .fiverr-profile-img { 
+    height: 180px;
+    width: 180px;
+    position: relative;
+    z-index: 1;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 2px white solid;
+    margin: 0px;
+    padding: 0px;
+}
+
+.fiverr-seller-widget .fiverr-seller-content .crop .overlay {
+    background: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 59%, rgba(0,0,0,0.65) 100%), no-repeat;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(59%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.65))), no-repeat;
+    background: -webkit-linear-gradient(top, rgba(0,0,0,0) 0%,rgba(0,0,0,0) 59%,rgba(0,0,0,0.65) 100%), no-repeat;
+    background: -o-linear-gradient(top, rgba(0,0,0,0) 0%,rgba(0,0,0,0) 59%,rgba(0,0,0,0.65) 100%), no-repeat;
+    background: -ms-linear-gradient(top, rgba(0,0,0,0) 0%,rgba(0,0,0,0) 59%,rgba(0,0,0,0.65) 100%), no-repeat;
+    background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0) 59%,rgba(0,0,0,0.65) 100%), no-repeat;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 2px white solid;
+    height: 150px;
+    width: 180px;
+    z-index: 2;
+    position: absolute;
+    top: 0px;
+}
+
+
+.fiverr-seller-widget .fiverr-seller-content .fiverr-icon {
+    display: block;
+    margin-left: 52px;
+    margin-right: 52px;
+    margin-top: -38px;
+    position: relative;
+    z-index: 3;
+    background: transparent;
+}
+
+.fiverr-seller-widget .fiverr-seller-content .fiverr-seller-category {
+    font-family: "helvetica";
+    font-size: 12px;
+    line-height: 14px !important;
+    margin-top: 4px;
+    margin-bottom: 7px;
+    font-weight: bold;
+    min-height: 14px;
+    color: black !important;
+    text-align: center !important;
+}
+
+.fiverr-seller-widget .fiverr-seller-content .fiverr-seller-text {
+    font-family: 'Pluto';
+    font-size: 15px;
+    line-height: 19px !important;
+    margin-top: 11px;
+    color: black !important;
+    text-align: center !important;
+}
+
+.fiverr-seller-widget .fiverr-seller-content .fiverr-rating-stars {
+    margin-bottom: 5px;
+    color: #ffbf00;
+    min-height: 15px;
+    line-height: 15px !important;
+    text-align: center !important;
+}
+
+.fiverr-seller-widget .fiverr-seller-content .fiverr-rating-stars i {
+    font-size: 14px;
+    margin-right: 1px;
+    text-decoration: none !important;
+    font-style: normal !important;
+}
+
+.fiverr-seller-widget .fiverr-seller-content .check-gigs-btn { 
+    -webkit-font-smoothing: antialiased;
+    -webkit-writing-mode: horizontal-tb;
+    background-image: linear-gradient(rgb(53, 195, 80), rgb(3, 181, 37));
+    border-bottom-color: rgb(1, 159, 41);
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(1, 159, 41);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: rgb(1, 159, 41);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: rgb(1, 159, 41);
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    display: inline-block;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    height: 30px;
+    line-height: 29px;
+    text-align: center;
+    text-shadow: rgba(0, 0, 0, 0.2) 0px -1px 1px;
+    width: 150px;
+    margin-top: 2px;
+}
+
