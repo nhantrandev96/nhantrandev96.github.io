@@ -1012,6 +1012,7 @@ section .container {
   padding: 20px;
   width: 100%;
   background: rgba(255, 255, 255, 0.08);
+  overflow: hidden;
 }
 
 .contact .info-box i.bx {
