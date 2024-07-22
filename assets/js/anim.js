@@ -60,7 +60,7 @@ function init() {
   const loader = new GLTFLoader(loadingManager);
   loader.setDRACOLoader(dracoLoader);
   loader.load(
-    "https://nhantrandev96.github.io/assets/models/mini_robot.glb",
+    "https://www.nhantrandev96.xyz/assets/models/mini_robot.glb",
     function (gltf) {
       model = gltf.scene;
 
