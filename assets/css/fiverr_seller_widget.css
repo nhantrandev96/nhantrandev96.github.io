@@ -9,11 +9,11 @@
     font-family: 'Pluto';
     font-weight: normal;
     font-style: normal;
-    src: url('https://d2nb1f6l8b7ky0.cloudfront.net/fonts/pluto_fiverr-webfont.eot');
-    src: url('https://d2nb1f6l8b7ky0.cloudfront.net/fonts/pluto_fiverr-webfont.eot?#iefix') format('embedded-opentype'),
-         url('https://d2nb1f6l8b7ky0.cloudfront.net/fonts/pluto_fiverr-webfont.woff') format('woff'),
-         url('https://d2nb1f6l8b7ky0.cloudfront.net/fonts/pluto_fiverr-webfont.ttf') format('truetype'),
-         url('https://d2nb1f6l8b7ky0.cloudfront.net/fonts/pluto_fiverr-webfont.svg#pluto_fiverrregular') format('svg');
+    src: url('../fonts/pluto_fiverr-webfont.eot');
+    src: url('../fonts/pluto_fiverr-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/pluto_fiverr-webfont.woff') format('woff'),
+         url('../fonts/pluto_fiverr-webfont.ttf') format('truetype'),
+         url('../fonts/pluto_fiverr-webfont.svg#pluto_fiverrregular') format('svg');
 }
 
 .fiverr-seller-widget .fiverr-seller-content {
